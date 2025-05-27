@@ -1,4 +1,4 @@
-/* Contenedor principal del listado */
+
 .listado-citas {
     display: flex;
     flex-direction: column;
@@ -8,7 +8,7 @@
     background-color: #f8f9fa;
   }
   
-  /* Estilo para el título (si quisieras uno) */
+
   .listado-citas h2 {
     font-size: 2rem;
     margin-bottom: 1rem;
