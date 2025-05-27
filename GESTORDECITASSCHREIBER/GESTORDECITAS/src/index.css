@@ -1,0 +1,34 @@
+
+body {
+  font-family: 'Staatliches', cursive;
+  background: linear-gradient(to right, #d6006b, #b10082);
+  min-height: 100vh;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 3rem;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.contenedor {
+  max-width: 1000px;
+  margin: 2rem auto;
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.column {
+  flex: 1;
+}
